@@ -19,11 +19,6 @@ seaborn>=0.12.0
 matplotlib>=3.7.0
 
 # Utilities
-datetime
-warnings
-io
-base64
-typing
 
 # Performance & Caching
 streamlit-option-menu>=0.3.6
